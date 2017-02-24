@@ -1,0 +1,1 @@
+Simple C++ program to take in a number of vertexes (user input) and returns the drawn Polygon
